@@ -1,0 +1,44 @@
+	td {
+		padding: 2px;
+		margin: 0px;
+	}
+	.score-even,.grade-even {
+		background-color: #ddcccc;
+	}
+	.score-odd,.grade-odd {
+		background-color: #ffcccc;
+	}
+	.grade {
+		font-size: 1.2em;
+		font-weight: bold;
+	}
+	label,.fakelabel {
+		font-size: 0.8em;
+		color: #666666;
+	}
+	#warnings {
+		color: #990000;
+		font-weight: bold;
+	}
+	.gradeA {
+		color: #009900;
+	}
+	.gradeB{
+		color: #009999;
+	}
+	.gradeC{
+		color: #000099;
+	}
+	.gradeD{
+		color: #990099;
+	}
+	.gradeF{
+		color: #990000;
+	}
+	.secretinput {
+		border: none;
+		background-color: inherit;
+	}
+	.contender.secretinput, .factor.secretinput {
+		font-weight: bold;
+	}
